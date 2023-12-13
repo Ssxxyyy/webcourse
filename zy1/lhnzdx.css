@@ -8,10 +8,31 @@ element.style {
 }
 .head {
     display: none;
-    background-color: black;
+    background-color:grey;
+}
+.title_1 {
+    background-color: grey;
+    color:white;
+    vertical-align: bottom;
+}
+.title_2 {
+    background-color: grey;
+    color:white;
+    float:right;
 }
 .body {
-background-color:black;
-padding: 0;
-margin: 0;
+    background-color: grey;
+    color:white;
+}
+.header_1 {
+    background-color: grey;
+    color:white;
+}
+.header_2 {
+    background-color: grey;
+    color:white;
+}
+.footer {
+    background-color: grey;
+    color:white;
 }
