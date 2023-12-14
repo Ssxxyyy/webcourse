@@ -18,21 +18,58 @@ element.style {
 .title_2 {
     background-color: grey;
     color:white;
-    float:right;
+    text-align: right;
+    position: relative;
+    padding: 0;
+    margin: 0;
 }
 .body {
     background-color: grey;
     color:white;
+    text-align: left;
+    position: relative;
+    padding: 0;
+    margin: 0;
 }
 .header_1 {
     background-color: grey;
     color:white;
+    text-align: right;
+    position: relative;
+    padding: 0;
+    margin: 0;
 }
 .header_2 {
     background-color: grey;
     color:white;
 }
 .footer {
+    text-align: left;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+.footer_1 {
+    background-color: grey;
+    color:white;
+}
+.footer_2 {
+    background-color: grey;
+    color:white;
+}
+.footer_3 {
+    background-color: grey;
+    color:white;
+}
+.footer_4 {
+    background-color: grey;
+    color:white;
+}
+.footer_5 {
+    background-color: grey;
+    color:white;
+}
+.footer_6 {
     background-color: grey;
     color:white;
 }
