@@ -9,11 +9,15 @@ element.style {
 .head {
     display: none;
     background-color:grey;
+    weight:200px;
+    height:150px;
 }
 .title_1 {
     background-color: grey;
     color:white;
     vertical-align: bottom;
+    weight:200px;
+    height:150px;
 }
 .title_2 {
     background-color: grey;
@@ -22,6 +26,8 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
+    weight:200px;
+    height:150px;
 }
 .body {
     background-color: grey;
@@ -30,6 +36,8 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
+    weight:200px;
+    height:150px;
 }
 .header_1 {
     background-color: grey;
@@ -38,17 +46,23 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
+    weight:200px;
+    height:150px;
 }
 .header_2 {
     background-color: grey;
     color:white;
+    weight:200px;
+    height:150px;
 }
 .footer {
     text-align: left;
     position: relative;
     padding: 0;
     margin: 0;
-}
+    weight:200px;
+    height:150px;
+} 
 .footer_1 {
     background-color: grey;
     color:white;
@@ -56,6 +70,8 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
+    weight:200px;
+    height:150px;
 }
 .footer_2 {
     background-color: grey;
@@ -64,6 +80,8 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
+    weight:200px;
+    height:150px;
 }
 .footer_3 {
     background-color: grey;
@@ -72,6 +90,8 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
+    weight:200px;
+    height:150px;
 }
 .footer_4 {
     background-color: grey;
@@ -82,7 +102,8 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
-    
+    weight:200px;
+    height:150px;
 }
 .footer_5 {
     background-color: grey;
@@ -93,6 +114,8 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
+    weight:200px;
+    height:150px;
 }
 .footer_6 {
     background-color: grey;
@@ -103,4 +126,6 @@ element.style {
     position: relative;
     padding: 0;
     margin: 0;
+    weight:200px;
+    height:150px;
 }
